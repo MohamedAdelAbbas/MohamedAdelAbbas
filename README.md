@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MohamedAdelAbbas)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=MohamedAdelAbbas&Restaurant-DiscoveryPin)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=MohamedAdelAbbas&repo=Drinky-master)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAdelAbbas&repo=Restaurant-DiscoveryPin)

@@ -35,9 +35,13 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MohamedAdelAbbas)
+[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://MohamedAdelAbbas.ml/)
+
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.3del95@gmail.com)
 
 <hr>
@@ -52,7 +56,12 @@
     <a href="https://dev.to/mohamedadelabbas"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"></a>&nbsp;
     
   </p>
-    
+    <p align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamedAdelAbbas" />
+<img src="https://komarev.com/ghpvc/?username=MohamedAdelAbbas" alt="singh08prashant" />
+
+</p>
 </p>
 
 

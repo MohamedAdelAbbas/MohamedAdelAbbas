@@ -41,13 +41,22 @@
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-### Contact me:
 
-[![Twitter](https://img.shields.io/badge/@Mohamed_3delll-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamed_3delll) 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohamed_3delll) 
+<hr>
+<p align="center">
+  <i><b>Let's connect and chat!</b></i>
+      
+  <p align="center">
+    <a href="https://twitter.com/Mohamed_3delll" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/mohamedadelabbas/" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.instagram.com/mohamed.adel.sir" alt="Instagram"><img src="https://github.com/aletisunil/aletisunil/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
+     <a href="https://t.me/Mohamed_3delll" alt="Telegram"><img src="https://github.com/aletisunil/aletisunil/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
+    <a href="https://dev.to/mohamedadelabbas"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"></a>&nbsp;
+    
+  </p>
+    
+</p>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.3del95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedadelabbas/)
-[![dev.com](https://img.shields.io/badge/-DEV.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://dev.to/mohamedadelabbas)
 ### My GitHub Stats
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=MohamedAdelAbbas&show_icons=true)

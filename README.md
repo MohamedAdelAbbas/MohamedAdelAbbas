@@ -22,8 +22,6 @@
 ##### Some of the technologies I have worked with
 
 
-
-
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -40,7 +38,7 @@
 
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.3del95@gmail.com)
 
 <hr>
 <p align="center">
@@ -56,7 +54,9 @@
   </p>
     
 </p>
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.3del95@gmail.com)
+
+
+
 ### My GitHub Stats
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=MohamedAdelAbbas&show_icons=true)

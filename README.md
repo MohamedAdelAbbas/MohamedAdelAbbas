@@ -70,8 +70,7 @@
 
 ## Some of my Github Public Stats
 
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdelAbbas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MohamedAdelAbbas)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdelAbbas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 ⭐️ From [MohamedAdelAbbas](https://github.com/MohamedAdelAbbas)

@@ -68,7 +68,8 @@
 </p>
 
 
-
+## Some of my Github Public Stats
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdelAbbas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 ⭐️ From [MohamedAdelAbbas](https://github.com/MohamedAdelAbbas)

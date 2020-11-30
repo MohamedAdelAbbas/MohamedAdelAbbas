@@ -52,10 +52,10 @@
   <i><b>Let's connect and chat!</b></i>
       
   <p align="center">
-    <a href="https://twitter.com/Mohamed_3delll" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/mohamedadelabbas/" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/mohamed.adel.sir" alt="Instagram"><img src="https://github.com/aletisunil/aletisunil/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://t.me/Mohamed_3delll" alt="Telegram"><img src="https://github.com/aletisunil/aletisunil/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
+    <a href="https://twitter.com/Mohamed_3delll" alt="Twitter"><img src="ttps://www.flaticon.com/svg/static/icons/svg/889/889147.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/mohamedadelabbas/" alt="Linkedin"><img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://www.instagram.com/mohamed.adel.sir" alt="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="30" width="30"></a>&nbsp;
+     <a href="https://t.me/Mohamed_3delll" alt="Telegram"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" height="30" width="30"></a>&nbsp;
     <a href="https://dev.to/mohamedadelabbas"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"></a>&nbsp;
     
   </p>

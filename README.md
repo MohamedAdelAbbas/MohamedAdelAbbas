@@ -8,8 +8,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻  I love programming and I love Swift.
-- 🤔 My interests are with iOS and macOS programming, Python etc..;
+- 👨🏽‍💻  I love programming and I love learn New thecnology.
+- 🤔 My interests are with Devops and Cloud programming, Python etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.

@@ -52,7 +52,7 @@
   <i><b>Let's connect and chat!</b></i>
       
   <p align="center">
-    <a href="https://twitter.com/Mohamed_3delll" alt="Twitter"><img src="https://www.flaticon.com/svg/static/icons/svg/889/889147.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://twitter.com/Mohamed_3delll" alt="Twitter"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1636044153~hmac=903dad6a27e8cb5df81959c4c4288874" height="30" width="30"></a>&nbsp;
     <a href="https://www.linkedin.com/in/mohamedadelabbas/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"></a>&nbsp;
     <a href="https://www.instagram.com/mohamed.adel.sir" alt="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="30" width="30"></a>&nbsp;
      <a href="https://t.me/Mohamed_3delll" alt="Telegram"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="30" width="30"></a>&nbsp;

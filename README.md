@@ -3,7 +3,7 @@
 
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
-<p>DevOps Software Enginner at <a href="https://www.linkedin.com/company/hmaserv/">CIB </a></br>
+<p>DevOps Software Enginner at <a href="https://www.linkedin.com/company/hmaserv/">EBC </a></br>
 </p>
 
 ### Talking about Personal Stuffs:
